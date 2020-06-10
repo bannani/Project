@@ -1,0 +1,27 @@
+int a, b, c, d;
+float e;
+
+a = 1;
+b = 2;
+c = a + b;
+
+e = 1.5;
+
+if (a > 0){
+    e = e + b;;
+}
+else{
+    e = e + c;;
+};
+
+while (a > 0){
+    if (b > 0){
+        a = a - b;;
+    }
+    else{
+        a = 0;;
+    };;
+};
+e = e - a;
+d = e;;
+

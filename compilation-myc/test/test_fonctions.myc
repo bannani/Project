@@ -1,0 +1,15 @@
+int d;
+int a,b;
+int foo(int x){
+    int c;
+    x = 12;
+    return (x)
+}
+int fo(int y, int z, int f){
+    int e;
+    y = 12;
+    return (z)
+}
+
+d=fo(a,b, d);
+d=foo(a);;
